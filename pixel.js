@@ -8,7 +8,7 @@ let gravity = 0.6;
 let isJumping = false;
 
 let playerImage = new Image();
-playerImage.src = "image/donkeyy.png";
+playerImage.src = "donkeyy.png";
 
 let animals = ["donkeyy.png","blackcar.png","bee.png"];
 
